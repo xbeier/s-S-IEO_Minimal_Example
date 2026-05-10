@@ -1,6 +1,6 @@
 # Minimal Example: Supervised Learning of Replenishment Decisions
 
-This repository contains a minimal working example for the code accompanying the scientific article **"Supervised Learning of Optimal Replenishment Decisions"**.
+This repository contains a minimal working example for the code accompanying the scientific article **"Supervised Learning of Optimal Replenishment Decisions"* (Bubak, Fleischmann, Stuckenschmidt, 2026)*.
 
 The example illustrates how supervised learning can be used to learn period-dependent `(s, S)` replenishment policy parameters for a stochastic dynamic inventory problem under non-stationary demand. Instead of forecasting future demand distributions and repeatedly solving the inventory problem, the approach learns a direct mapping from observable features to replenishment policy parameters.
 
